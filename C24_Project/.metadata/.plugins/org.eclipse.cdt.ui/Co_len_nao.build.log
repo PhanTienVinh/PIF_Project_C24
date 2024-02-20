@@ -1,0 +1,10 @@
+09:35:02 **** Incremental Build of configuration Debug for project Co_len_nao ****
+make -j20 all 
+arm-none-eabi-size   Co_len_nao.elf 
+   text	   data	    bss	    dec	    hex	filename
+  18624	     32	   1936	  20592	   5070	Co_len_nao.elf
+Finished building: default.size.stdout
+ 
+
+09:35:02 Build Finished. 0 errors, 0 warnings. (took 291ms)
+

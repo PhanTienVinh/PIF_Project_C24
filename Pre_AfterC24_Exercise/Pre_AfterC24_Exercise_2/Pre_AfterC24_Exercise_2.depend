@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1708392796 source:e:\c++\pre_afterc24_exercise_2\main.c
+	<stdio.h>
+	<stdlib.h>
+	<stdint.h>
+
